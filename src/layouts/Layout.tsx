@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
     <State>
       <Head>
         <link rel="icon" type="image/png" href="img/favicon.png" />
-        <title>Kevin Shelley | Home</title>
+        <title>Hajar Boughoula | Home</title>
       </Head>
       <PreLoader />
       <ImageView />
