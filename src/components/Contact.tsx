@@ -25,7 +25,7 @@ const Contact = () => {
                   <div className="list_inner">
                     <i className="icon-phone" />
                     <span>
-                      <a href="tel:6023593022">(602) 359-3022</a>
+                      <a href="tel:+966554687664">+966554687664</a>
                     </span>
                   </div>
                 </li>
@@ -33,8 +33,8 @@ const Contact = () => {
                   <div className="list_inner">
                     <i className="icon-mail-1" />
                     <span>
-                      <a href="mailto:kevin.shelley@pm.me">
-                        kevin.shelley@pm.me
+                      <a href="mailto:hajar.boughoula@gmail.com">
+                        hajar.boughoula@gmail.com
                       </a>
                     </span>
                   </div>
@@ -44,11 +44,11 @@ const Contact = () => {
                     <i className="icon-linkedin-1" />
                     <span>
                       <a
-                        href="https://www.linkedin.com/in/kevin-shelley"
+                        href="https://www.linkedin.com/in/hajar-boughoula/"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        kevin-shelley
+                        hajar-boughoula
                       </a>
                     </span>
                   </div>
