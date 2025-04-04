@@ -102,7 +102,7 @@ const About = () => {
               <div className="text">
                 <p>
                 Software Engineer 👩🏼‍💻 | 11+ Years of programming beautiful solutions for diverse fields 🚀 | Specializing in web development, data management & analysis, and Image & Natural Language Processing 👾
-                
+                </p>
                 <p>
                 I have been coding ever since I was 13 years old culminating in extensive experience in engineering 
                 and implementing optimal solutions for a wide range of industry software needs. From creating research 
