@@ -95,17 +95,21 @@ const AboutPopup = ({ open, close, aboutData }) => {
                 </h3>
               </div>
               <div className="text">
-                <p>
-                  My name is <span>Kevin Shelley.</span> I am a software
-                  engineer with 10 years of industry experience, specializing in
-                  full stack web development. My passion lies in designing and
-                  building innovative software solutions for web applications
-                  that cater to users across the globe and on various operating
-                  systems. This commitment to efficiency and accessibility is
-                  evident in the multi-million dollar projects I have developed
-                  while working for Fortune 100 tech companies like Honeywell,
-                  as well as smaller private businesses such as GOLO.
-                </p>
+                <p> Hajar Boughoula</p>
+                <p>Software Engineer 👩🏼‍💻 | 11+ Years of programming beautiful solutions for diverse fields 🚀 | 
+                  Specializing in web development, data management & analysis, and Image & Natural Language Processing 👾</p>
+                <p>I have been coding ever since I was 13 years old culminating in extensive experience in engineering 
+                  and implementing optimal solutions for a wide range of industry software needs. From creating research focused 
+                  software for NASA’s Mission to Psyche, to leading tech teams at the Red Crescent in building enterprise management 
+                  software, I've had the privilege to work on exclusive and complex projects that shaped me into the well rounded developer I am today.</p>
+                <p>Bringing together coherent compatible teams from all around the world is where I excel as a team builder. With experience in managing 
+                  teams of 10+ engineers, I’ve learned that great software isn’t just about the algorithms – it’s about collaboration, vision, and diligence. 
+                  My teams are best known for strong team dynamics that foster an environment of camaraderie, creativity, and rising to challenges to deliver 
+                  beautiful and durable software with consistent high performance even under pressure.</p>
+                <p>In my free time, I play chess competitively with my national federation, which can sometimes be mirrored in the way I approach problem solving at work. 
+                  Finding the best solution even in seemingly impossible situations is my true passion.</p>
+                <p>Currently exploring opportunities where I can work with dynamic teams and contribute to solving the next big challenge. If you’re passionate about innovative solutions (or chess!) 
+                  and are looking for a seasoned engineer and team player, let’s connect!</p>
                 <br></br>
                 <p>
                   I am excited to use my years of experience in web development
