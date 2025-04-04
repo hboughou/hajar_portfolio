@@ -42,13 +42,13 @@ export const Logo = () => (
       className="c logo--ks__first-name"
       transform="translate(-0.00022 26.01913)"
     >
-      KEVIN{" "}
+      HAJAR{" "}
     </text>
     <text
       className="c logo--ks__last-name"
       transform="translate(54.11608 26.01865)"
     >
-      SHELLEY
+      BOUGHOULA
     </text>
   </svg>
 );
